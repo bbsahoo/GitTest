@@ -1,3 +1,5 @@
+print ("checking for git stash")
+
 def addition(a,b):
     return a+b
 total = addition(6,4)
